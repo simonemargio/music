@@ -1,10 +1,5 @@
-# Music
+# Music Library
 
-A simple [website](https://simonemargio.github.io/music/) with a collection of my favorite playlists and songs on Apple Music since 2015 🎵
+This website has been fully integrated into my main website. You can find the link [here](https://simonemargio.im/music/)! 🎵
 
-![Site](https://user-images.githubusercontent.com/22590804/217922866-b8c07cce-6440-44aa-a92d-ff2db10481f1.png)
-
-
-# Deploy by GitHub 
-
-[![GitHub Status]( https://github.com/simonemargio/music/actions/workflows/pages/pages-build-deployment/badge.svg)]( https://github.com/simonemargio/music/actions/workflows/pages/pages-build-deployment/badge.svg)
+![simonemargio.im/music page](https://github.com/simonemargio/music/assets/22590804/d53b144a-73a8-4bb6-9780-3ad9292564ea)
